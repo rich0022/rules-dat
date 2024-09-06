@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain": [
-        "dg.cloupor.com"
+        "dg.cloupor.com",
+        "dg4.cloupor.com"
       ]
     }
   ]
