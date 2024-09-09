@@ -3,9 +3,15 @@
   "rules": [
     {
       "domain": [
-        "dg.cloupor.com",
-        "dg4.cloupor.com"
-      ]
+
+      ],
+    "domain_suffix": [
+        "going-link.com",
+        "cloupoor.com"
+        ],
+     "ip_cidr": [
+          "45.78.33.0/24"
+        ]
     }
   ]
 }
